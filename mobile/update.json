@@ -1,0 +1,12 @@
+{
+  "format": "hudoor-mobile-update",
+  "version": "0.5.2",
+  "version_code": 8,
+  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.2/Hudoor_Mobile_0.5.2.apk",
+  "sha256": "36489c9b23506144faa0d55635914039bbcd6265b005e329dabee17a62300a90",
+  "size": 36914784,
+  "notes": {
+    "ar": "فحص وتنزيل تحديثات التطبيق تلقائيًا، مع زر تحديث التطبيق في الإعدادات، والتحقق من سلامة الحزمة والحفاظ على الربط والدخول السريع.",
+    "en": "Automatic update checks and downloads, an app-update section in Settings, verified packages, and preserved connection and biometric sign-in."
+  }
+}
