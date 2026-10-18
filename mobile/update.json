@@ -1,12 +1,12 @@
 {
   "format": "hudoor-mobile-update",
-  "version": "0.5.3",
-  "version_code": 9,
-  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.3/Hudoor_Mobile_0.5.3.apk",
-  "sha256": "dcad2180f1bf555f7c4a6924fb13910ae685090933b7a11a0efd9a5378252f04",
-  "size": 36915804,
+  "version": "0.5.4",
+  "version_code": 10,
+  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.4/Hudoor_Mobile_0.5.4.apk",
+  "sha256": "dcd4d15605166ed7fbf8223ecdfaf5f8053067160c227227ec12b2de214a522e",
+  "size": 50053720,
   "notes": {
-    "ar": "تحسين ألوان الوضعين الفاتح والداكن، وزيادة وضوح النصوص والأزرار وتناسق تباين الشاشات.",
-    "en": "Refreshed light and dark colors, clearer text and buttons, and consistent readable reports."
+    "ar": "• حفظ نماذج الإدخال والتعديل تلقائيًا كمسودات محلية مشفرة، واستعادتها بعد التحقق من الحساب برسالة «تمت استعادة مسودتك». المسودة خاصة بالمنشأة والحساب، وتُحذف بعد نجاح الحفظ أو تجاهلها فقط.\n• واجهة أبسط بأربع وجهات: اليوم، التقارير، الموظفون، المزيد؛ وإعدادات موحدة للمظهر واللغة والحساب والربط.\n• ربط سريع بمسح QR أو استيراد ملف الربط، مع اكتشاف الكمبيوتر تلقائيًا داخل الشبكة الحالية عند الانتقال بين الراوترات. يلزم اتصال الهاتف والكمبيوتر بالشبكة نفسها؛ الربط الخارجي مؤجل.\n• تقارير أوضح تفصل الحضور المكتمل عن البصمات الناقصة، وتشرح سياسة الإضافي، وتُصدر ملخصًا أو تقريرًا كاملًا بعد جلب جميع صفحاته.\n• نماذج موظفين أبسط، وقوائم قابلة للبحث، واختيار التواريخ والأوقات من أدوات أندرويد، مع الحفاظ على الألوان والبيانات والدخول السريع.",
+    "en": "• Automatically save entry and edit forms as encrypted local drafts. Restore them after account verification; drafts stay separate by company and account and are removed only after a successful save or an explicit discard.\n• Simpler navigation: Today, Reports, Employees and More, with one place for account, appearance, language and connection settings.\n• Pair once using a QR code or connection file. Discover the trusted computer on the current local network when moving between routers. Both devices must use the same network; external access is deferred.\n• Clearer reports separate complete attendance from missing punches, explain the configured overtime policy, and export a summary or a full report only after all pages load.\n• Progressive employee forms, searchable choices and native Android date/time pickers, while preserving current colors, data and quick sign-in."
   }
 }
