@@ -1,12 +1,12 @@
 {
   "format": "hudoor-mobile-update",
-  "version": "0.5.4",
-  "version_code": 10,
-  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.4/Hudoor_Mobile_0.5.4.apk",
-  "sha256": "dcd4d15605166ed7fbf8223ecdfaf5f8053067160c227227ec12b2de214a522e",
-  "size": 50053720,
+  "version": "0.5.8",
+  "version_code": 14,
+  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.8/Hudoor_Mobile_0.5.8.apk",
+  "sha256": "a0a874e09c4a5c7f6a6aff0fa3b41c83e1c84f7c14985fe71d96057414ee0c90",
+  "size": 52534720,
   "notes": {
-    "ar": "• حفظ نماذج الإدخال والتعديل تلقائيًا كمسودات محلية مشفرة، واستعادتها بعد التحقق من الحساب برسالة «تمت استعادة مسودتك». المسودة خاصة بالمنشأة والحساب، وتُحذف بعد نجاح الحفظ أو تجاهلها فقط.\n• واجهة أبسط بأربع وجهات: اليوم، التقارير، الموظفون، المزيد؛ وإعدادات موحدة للمظهر واللغة والحساب والربط.\n• ربط سريع بمسح QR أو استيراد ملف الربط، مع اكتشاف الكمبيوتر تلقائيًا داخل الشبكة الحالية عند الانتقال بين الراوترات. يلزم اتصال الهاتف والكمبيوتر بالشبكة نفسها؛ الربط الخارجي مؤجل.\n• تقارير أوضح تفصل الحضور المكتمل عن البصمات الناقصة، وتشرح سياسة الإضافي، وتُصدر ملخصًا أو تقريرًا كاملًا بعد جلب جميع صفحاته.\n• نماذج موظفين أبسط، وقوائم قابلة للبحث، واختيار التواريخ والأوقات من أدوات أندرويد، مع الحفاظ على الألوان والبيانات والدخول السريع.",
-    "en": "• Automatically save entry and edit forms as encrypted local drafts. Restore them after account verification; drafts stay separate by company and account and are removed only after a successful save or an explicit discard.\n• Simpler navigation: Today, Reports, Employees and More, with one place for account, appearance, language and connection settings.\n• Pair once using a QR code or connection file. Discover the trusted computer on the current local network when moving between routers. Both devices must use the same network; external access is deferred.\n• Clearer reports separate complete attendance from missing punches, explain the configured overtime policy, and export a summary or a full report only after all pages load.\n• Progressive employee forms, searchable choices and native Android date/time pickers, while preserving current colors, data and quick sign-in."
+    "ar": "Q Attend هو الاسم الجديد للتطبيق، مع الشعار والبيانات والإعدادات الحالية. يبدأ محتوى الشاشات أسفل شريط الوقت والبطارية والشبكة. ألوان أوضح، وأزرار رجوع ثابتة أسفل الشاشة. زر رجوع الهاتف يعيدك للشاشة السابقة. اضغط مربعات اليوم والحضور والرواتب لعرض تفاصيلها الكاملة. نماذج الموظفين والتصدير أبسط، مع تنبيه أخطاء الحقول والاحتفاظ بالمسودات المحمية عند تعذر الحفظ.",
+    "en": "The app is now Q Attend, retaining the existing logo, data and settings. Screen content stays below the status bar. Clearer colors, fixed bottom Back controls and Android system Back navigation. Open Today, attendance and payroll summary tiles for their full details. Simpler employee forms and report export, field-level validation and protected local drafts preserved after failed saves."
   }
 }
