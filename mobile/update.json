@@ -1,12 +1,12 @@
 {
   "format": "hudoor-mobile-update",
-  "version": "0.5.8",
-  "version_code": 14,
-  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.8/Hudoor_Mobile_0.5.8.apk",
-  "sha256": "a0a874e09c4a5c7f6a6aff0fa3b41c83e1c84f7c14985fe71d96057414ee0c90",
-  "size": 52534720,
+  "version": "0.5.9",
+  "version_code": 15,
+  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.9/Hudoor_Mobile_0.5.9.apk",
+  "sha256": "f51a0154d72a27f490909e3d70c0adda3f1b6cee52cf9d546c03a244a777ed6d",
+  "size": 52578500,
   "notes": {
-    "ar": "Q Attend هو الاسم الجديد للتطبيق، مع الشعار والبيانات والإعدادات الحالية. يبدأ محتوى الشاشات أسفل شريط الوقت والبطارية والشبكة. ألوان أوضح، وأزرار رجوع ثابتة أسفل الشاشة. زر رجوع الهاتف يعيدك للشاشة السابقة. اضغط مربعات اليوم والحضور والرواتب لعرض تفاصيلها الكاملة. نماذج الموظفين والتصدير أبسط، مع تنبيه أخطاء الحقول والاحتفاظ بالمسودات المحمية عند تعذر الحفظ.",
-    "en": "The app is now Q Attend, retaining the existing logo, data and settings. Screen content stays below the status bar. Clearer colors, fixed bottom Back controls and Android system Back navigation. Open Today, attendance and payroll summary tiles for their full details. Simpler employee forms and report export, field-level validation and protected local drafts preserved after failed saves."
+    "ar": "زر واحد لإعدادات التطبيق يضم المظهر واللغة والتحديثات والدعم ودليل الربط والاتصال، مع إزالة المداخل المكررة. مركز دعم وتشخيص جديد مع فحص اتصال مباشر وتقرير تقني منزوع البيانات الخاصة. دليل ربط مصوّر من أربع خطوات للاتصال الداخلي والخارجي، واختصارات مهام مبسطة حسب صلاحيات الحساب مع حفظ التفضيل لكل حساب ومنشأة. حماية تعارض التعديلات: تبقى المسودة كما هي، وتظهر أحدث بيانات السجل للمراجعة الصريحة قبل الحفظ؛ إيقاف أو إلغاء سجل يتطلب تأكيد مراجعة بياناته الحالية. يحتفظ تعديل عنوان جهاز البصمة بمفتاحه الحالي ما لم يُستبدل صراحةً. الألوان والشعار والبيانات والبصمة والربط المباشر ومربعات الملخص وأزرار الرجوع محفوظة.",
+    "en": "One App settings entry groups appearance, language, updates, support, connection guidance and pairing without duplicate entries. New support and diagnostics center with direct connectivity checks and a private-data-free technical report. Four-step illustrated guides for local and external access, plus permission-based task shortcuts and a protected layout preference per account and company. Conditional updates now preserve conflicting drafts and require explicit review of the latest record before Save; deactivation or cancellation also requires confirming the reviewed record. Editing an attendance device address keeps its existing hidden key unless explicitly replaced. Existing colors, logo, data, biometrics, direct connectivity, summary drilldowns and Back navigation are retained."
   }
 }
