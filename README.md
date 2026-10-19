@@ -1,19 +1,16 @@
-# Q Attend — التحديثات الرسمية
+# Q Attend — Alqadi Attendance
 
-**Q Attend | Alqadi Attendance** من **Alqadi Soft** — برنامج لإدارة الموظفين والحضور والانصراف والرواتب، مع تطبيق موبايل للمتابعة والربط بكمبيوتر المنشأة.
+نظام الحضور والانصراف والرواتب من AlqadiSoft.
 
-هذا المستودع مخصص لإصدارات برنامج الحضور والانصراف وملفات تثبيته. لا يحتوي بيانات الموظفين أو قواعد حضور العملاء أو حساباتهم أو أداة إصدار مفاتيح التفعيل.
+- [إصدار الكمبيوتر 0.5.4](https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/tag/v0.5.4)
+- [إصدار أندرويد 0.5.9](https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/tag/mobile-v0.5.9)
 
-## تنزيل البرنامج
+يوفر الإصدار الجديد مركز دعم وتشخيص، ودليل ربط مصور، وواجهة مبسطة حسب صلاحيات الحساب، وحماية من تعارض تعديل السجل بين المستخدمين. توجد إعدادات الموبايل في مدخل واحد: «المزيد ← إعدادات التطبيق»، وتشمل المظهر واللغة والتحديثات والمساعدة والربط. احتفظ بالتطبيق المثبت وثبّت APK الجديد كتحديث للحفاظ على البيانات والإعدادات.
 
-افتح قسم **Releases** ثم نزّل ملف التثبيت المناسب لويندوز 10 أو 11 بنظام 64 بت.
+يمكن تجهيز نسخة ويب لـiPhone من إعدادات الكمبيوتر عبر HTTPS داخل شبكة العميل. تحتاج تثبيت شهادة المنشأة والثقة بها يدويًا على الهاتف ثم استيراد ملف الربط الخاص به. خدمة الكمبيوتر هي مصدر البيانات؛ الوصول من الخارج يحتاج IP عامًا ثابتًا وتحويل المنفذ لدى العميل. اختبار iPhone الفعلي والوصول الخارجي يتمان على أجهزة وشبكة العميل.
 
-لأندرويد، نزّل ملف **APK** من إصدار الموبايل وثبّته كتحديث فوق التطبيق الحالي للاحتفاظ بإعداداتك. ملفات ربط العملاء وبياناتهم لا تُنشر هنا.
+## English
 
-## التحديث من البرنامج
+Attendance and payroll management by AlqadiSoft. Desktop 0.5.4 and Android 0.5.9 add support diagnostics, illustrated connection guidance, role-based simple navigation, and conflict-safe editing. Android settings have one entry under More → App settings. Install the APK as an update over the existing app.
 
-من **الإعدادات ← تحديث البرنامج** اضغط **فحص التحديثات** ثم **تنزيل التحديث وتطبيقه**. يتطلب تطبيق التحديث حساب مسؤول. البرنامج يتحقق من توقيع الحزمة وسلامة الملفات قبل التطبيق، ويحفظ نسخة رجوع للبرنامج ونسخة أمان من بيانات الحضور والحسابات.
-
-حزمة التحديث لا تتضمن قواعد بيانات أو كلمات مرور أو ملفات ترخيص العميل. لا يتم رفع أي بيانات حضور إلى هذا المستودع عند فحص التحديث أو تنزيله.
-
-إنشاء واستعادة نسخ RAR يحتاج تثبيت WinRAR بصورة مستقلة من موقعه الرسمي وفق شروطه.
+An administrator can prepare an iPhone HTTPS web-app package from the desktop settings. Company certificate installation and trust are manual on iPhone. External access requires the customer’s fixed public IP and port forwarding. Physical iPhone and external-network validation remain customer-side steps.
