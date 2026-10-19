@@ -1,12 +1,12 @@
 {
   "format": "hudoor-mobile-update",
-  "version": "0.5.9",
-  "version_code": 15,
-  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.9/Hudoor_Mobile_0.5.9.apk",
-  "sha256": "f51a0154d72a27f490909e3d70c0adda3f1b6cee52cf9d546c03a244a777ed6d",
-  "size": 52578500,
+  "version": "0.5.10",
+  "version_code": 16,
+  "apk_url": "https://github.com/hussin0100808-ux/hussein-attendance-updates/releases/download/mobile-v0.5.10/Hudoor_Mobile_0.5.10.apk",
+  "sha256": "4b2a0dbb2d96b6da5088f79a6bc6f6add915e3070b50fb77f17d088adba21418",
+  "size": 52615420,
   "notes": {
-    "ar": "زر واحد لإعدادات التطبيق يضم المظهر واللغة والتحديثات والدعم ودليل الربط والاتصال، مع إزالة المداخل المكررة. مركز دعم وتشخيص جديد مع فحص اتصال مباشر وتقرير تقني منزوع البيانات الخاصة. دليل ربط مصوّر من أربع خطوات للاتصال الداخلي والخارجي، واختصارات مهام مبسطة حسب صلاحيات الحساب مع حفظ التفضيل لكل حساب ومنشأة. حماية تعارض التعديلات: تبقى المسودة كما هي، وتظهر أحدث بيانات السجل للمراجعة الصريحة قبل الحفظ؛ إيقاف أو إلغاء سجل يتطلب تأكيد مراجعة بياناته الحالية. يحتفظ تعديل عنوان جهاز البصمة بمفتاحه الحالي ما لم يُستبدل صراحةً. الألوان والشعار والبيانات والبصمة والربط المباشر ومربعات الملخص وأزرار الرجوع محفوظة.",
-    "en": "One App settings entry groups appearance, language, updates, support, connection guidance and pairing without duplicate entries. New support and diagnostics center with direct connectivity checks and a private-data-free technical report. Four-step illustrated guides for local and external access, plus permission-based task shortcuts and a protected layout preference per account and company. Conditional updates now preserve conflicting drafts and require explicit review of the latest record before Save; deactivation or cancellation also requires confirming the reviewed record. Editing an attendance device address keeps its existing hidden key unless explicitly replaced. Existing colors, logo, data, biometrics, direct connectivity, summary drilldowns and Back navigation are retained."
+    "ar": "إصلاح استكمال الدخول السريع بعد انتقال التطبيق إلى الخلفية: لا تُكمل استجابة قديمة فتح الحساب بعد تغيير حالة التطبيق. تبقى بيانات البصمة المحمية والمسودات والربط محفوظة عند إلغاء التحقق أو تعذر الاتصال. يستمر الدخول بعد تحقق المستخدم نفسه، مع الحفاظ على إعدادات التطبيق الموحّدة ومركز الدعم والدليل والألوان والبيانات الحالية.",
+    "en": "Fixes quick-login lifecycle handling when the app moves to the background: a stale authentication response cannot reopen an account after the app state changes. Protected biometric enrollment, drafts and pairing are retained after cancellation or connectivity failures. Access still requires user verification. Unified App settings, support, guidance, colors and existing data are preserved."
   }
 }
